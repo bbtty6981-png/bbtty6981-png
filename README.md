@@ -12,16 +12,13 @@ ChatGPT と自作の環境を使いつつ、毎日手を動かしながらスキ
 🔹 AWS
 VPC / EC2 / S3 / IAM の基礎構築
 ECS / Fargate / ECR を中心にコンテナ運用を学習中
-
 🔹 Container / DevOps
 Docker でのアプリケーション環境構築
 docker-compose によるローカル開発環境
 CI/CD（GitHub Actions）導入に向けて学習中
-
 🔹 Infrastructure Automation
 CloudFormation / Terraform の学習を開始
 “手作業を自動化する” 思考を重視
-
 🔹 Programming
 Python（API・スクリプト自動化）
 Flask を用いた小規模 API 開発
@@ -34,17 +31,17 @@ Flask を用いた小規模 API 開発
 「調べる → 触る → 壊す → 直す」の反復を継続
 分からない部分をそのままにせず、必ず自分の言葉に噛み砕く
 
+
 📚 Recent Projects
 
 ▶ Containerized Flask API
 Docker 化した簡易 API（/items エンドポイント）
-
 → コンテナ基盤の理解のために作成
-
 → ECS/Fargate へのデプロイも次の目標
 
 ▶ Infrastructure Templates（in progress）
 AWS の最小構成（VPC, Subnet, EC2）を IaC 化する予定。
+
 
 📩 Contact
 
