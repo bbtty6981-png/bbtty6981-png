@@ -1,52 +1,57 @@
-# 👋 Hi, I'm Tatsuya
+# 👋 Hi, I'm Tatsuya Baba (bbtty6981-png)
 
-夜間に開発を継続しているエンジニア志望者です。  
-現在は **Flask を用いた API 開発**、**Docker**, **Linux**, **AWS（EC2）** を中心に学習・構築しています。
-
-実務に近い環境での開発を習慣化しながら、  
-**Web システム開発・API 開発・AWS 基盤構築**などの領域で案件獲得を目指しています。
-
----
-
-## 🔧 Tech Stack
-
-### Backend / API
-- Python（Flask）
-- REST API 設計
-- Blueprint 構成
-
-### Infrastructure
-- Docker / Docker Compose
-- Linux（Amazon Linux 2023 / Ubuntu）
-- AWS EC2（SSH 接続 / 運用の基礎）
-
-### Tools / Ops
-- Git / GitHub
-- ログ確認
-- シェル基本操作
+I'm building my career as a backend/API engineer while working on practical projects using  
+**Flask / Docker / AWS EC2 / REST API design**.  
+Currently developing and deploying small but production-oriented APIs to strengthen my portfolio  
+and prepare for freelance / side-job (副業) opportunities.
 
 ---
 
-## 📚 Current Projects
+## 🚀 Skills & Technologies
 
-### 📌 Flask REST API（Items API）
-- `GET /items/` で JSON を返す API  
-- Docker でコンテナ化  
-- EC2 へ接続し Linux 上で動作確認  
-- ディレクトリ分割（routes / services）
-
-📍 **→ 案件に提出する成果物として公開しています**
+- **Backend / API**: Python, Flask, REST API
+- **Infrastructure / Ops**: Docker, docker-compose, AWS EC2 (Amazon Linux 2023)
+- **Version Control**: Git, GitHub
+- **Deployment**: Linux, systemd, containerized deployment
 
 ---
 
-## 🎯 今後進める内容
-- POST / PUT / DELETE API の追加
-- DB（MySQL / PostgreSQL）連携
-- RDS / ECS / Lambda など AWS サービスへの展開
-- Web システムのフロント実装
+## 📦 Featured Project: Flask API Portfolio
+
+A simple and production-like API designed for actual freelance projects.  
+Includes layers for routing/service separation, Dockerization, and EC2 deployment.
+
+🔗 Repository:  
+https://github.com/bbtty6981-png/flask-api-portfolio
+
+🔹 技術ポイント  
+- REST API 設計  
+- Flask でのモジュール分割  
+- Docker 化・docker-compose  
+- AWS EC2 での実運用  
+- 公開 API をそのまま動作確認可能  
+
+---
+
+## 🛠️ What I'm Working On Now
+
+- Expanding portfolio-quality APIs  
+- Adding new endpoints & CRUD examples  
+- Improving reliability for SRE-oriented learning  
+- Preparing to apply for API / Backend freelance work  
+- Building workflows & documentation usable for real案件
+
+---
+
+## 🎯 My Goal
+
+To secure **API / Backend / Web system** side-job opportunities  
+and create a strong, reproducible portfolio that demonstrates  
+real-world skills from development → containerization → deployment.
 
 ---
 
 ## 📫 Contact
-ご依頼や質問があればお気軽にどうぞ。  
-GitHub Issues / DM / メールにて対応します。
+
+Feel free to reach out through GitHub Issues or Discussions!
+
