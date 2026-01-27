@@ -1,57 +1,48 @@
-# 👋 Hi, I'm Tatsuya Baba (bbtty6981-png)
+# 👋 Hi, I'm Tatsuya Baba  
+**Python × FastAPI × 自動化 / API 連携エンジニア**
 
-I'm building my career as a backend/API engineer while working on practical projects using  
-**Flask / Docker / AWS EC2 / REST API design**.  
-Currently developing and deploying small but production-oriented APIs to strengthen my portfolio  
-and prepare for freelance / side-job (副業) opportunities.
+YouTube Data API を使用した **分析ツール / データ取得 / 自動化システム** を中心に、  
+Python を使った Web API 開発・データ処理・業務効率化を行っています。
 
----
-
-## 🚀 Skills & Technologies
-
-- **Backend / API**: Python, Flask, REST API
-- **Infrastructure / Ops**: Docker, docker-compose, AWS EC2 (Amazon Linux 2023)
-- **Version Control**: Git, GitHub
-- **Deployment**: Linux, systemd, containerized deployment
+現在は **YouTube Data API フル機能搭載の FastAPI ポートフォリオ** を公開中です。
 
 ---
 
-## 📦 Featured Project: Flask API Portfolio
-
-A simple and production-like API designed for actual freelance projects.  
-Includes layers for routing/service separation, Dockerization, and EC2 deployment.
-
-🔗 Repository:  
-https://github.com/bbtty6981-png/flask-api-portfolio
-
-🔹 技術ポイント  
-- REST API 設計  
-- Flask でのモジュール分割  
-- Docker 化・docker-compose  
-- AWS EC2 での実運用  
-- 公開 API をそのまま動作確認可能  
+## 🚀 Skills
+- **Python**
+  - FastAPI / Flask
+  - requests / BeautifulSoup / Selenium
+  - Google API（YouTube Data API v3）
+- **API Development**
+  - REST API 設計 / Swagger ドキュメント整備
+- **Automation**
+  - Webスクレイピング
+  - 業務効率化ツール開発
+- **DevOps**
+  - Docker / GitHub Actions（習得中）
 
 ---
 
-## 🛠️ What I'm Working On Now
+## 📌 Featured Project  
+### 🔥 YouTube Data API Portfolio（FastAPI）
+YouTube の  
+- 動画検索  
+- チャンネル情報取得  
+- デイリー分析（今日/昨日の再生数差分）  
 
-- Expanding portfolio-quality APIs  
-- Adding new endpoints & CRUD examples  
-- Improving reliability for SRE-oriented learning  
-- Preparing to apply for API / Backend freelance work  
-- Building workflows & documentation usable for real案件
+をまとめて取得できる **実務レベルのAPIプロジェクト** です。
+
+👉 リポジトリ: https://github.com/bbtty6981-png/youtube-api-portfolio
 
 ---
 
-## 🎯 My Goal
-
-To secure **API / Backend / Web system** side-job opportunities  
-and create a strong, reproducible portfolio that demonstrates  
-real-world skills from development → containerization → deployment.
+## 📈 What I’m Working On
+- API × 自動化スキルを使った副業案件での実績作り
+- FastAPI / GCP / AWS の学習と実務レベルのポートフォリオ強化
+- データ分析 × 自動化のシステム構築
 
 ---
 
 ## 📫 Contact
-
-Feel free to reach out through GitHub Issues or Discussions!
-
+- GitHub: https://github.com/bbtty6981-png
+- 現在、副業のご相談も受け付けています。
